@@ -4,12 +4,12 @@ const posts = [
   {
     title: "A LEVEL PLAYING FIELD",
     description:
-    "Vine is a radical new approach to investing. Our community creates public due dilligence memo's, we publicly vote on the most backable projects, and everyone can earn investment carry in every startup. ",
+    "Vine is a radical new approach to investing. Our community creates public due-diligence memo's, we publicly vote on the most backable projects, and everyone can earn investment carry in every startup. ",
   },
   {
-    title: "CONTRIBUTER REWARDS",
+    title: "CONTRIBUTOR REWARDS",
     description:
-      "Vine's contributors are rewarded with a percentage of carry in the company based upon the weighted contributions across all contributors. Contributions inclube proposing, editing, annoting, discussing, and voting on whether edits should be added to the due diligence investment memo.",
+      "Vine's contributors are rewarded with a percentage of carry in the company based upon the weighted contributions across all contributors. Contributions include proposing, editing, annotating, discussing, and voting on whether edits should be added to the due diligence investment memo.",
   },
   {
     title: "OPEN SOURCE TECHNOLOGY",
