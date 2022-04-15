@@ -30,10 +30,10 @@ function Header() {
           </div>
           <div className="ml-10 space-x-4">
             <a
-              href="https://tryvine.xyz"
+              href= '#Cta'
               className="inline-block bg-green-700 py-2 px-4 border border-transparent rounded-md text-base font-medium text-white hover:bg-opacity-75"
             >
-              Connect your Wallet
+              Get Early Access
             </a>
           </div>
           

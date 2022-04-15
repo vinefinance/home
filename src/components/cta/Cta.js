@@ -1,9 +1,10 @@
 import React from "react";
 import savannah from "../../assets/images/savannah.jpeg";
+import Subscribe from "../subscribe/Subscribe";
 
 function Cta() {
   return (
-    <div>
+    <div id="Cta">
       <div>
         <div className="relative">
           <div className="flex-shrink-0" />
@@ -30,8 +31,11 @@ function Cta() {
                     startups
                   </span>
                 </h2>
+                <Subscribe/>
               </div>
+              
             </div>
+            
           </div>
         </div>
       </div>

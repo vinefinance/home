@@ -1,5 +1,5 @@
 import React from 'react';
-import { InboxIcon, SparklesIcon } from '@heroicons/react/outline'
+
 import investopedia from '../../assets/images/investopedia.png'
 
 function Investopedia() {

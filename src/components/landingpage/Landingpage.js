@@ -11,7 +11,7 @@ function Landingpage() {
   return (
     <div>
       <div className="landingpage-bg">
-        <Header />
+        <Header/>
         <Cta />
         <About />
         <Community />
