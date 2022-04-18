@@ -26,7 +26,7 @@ function About() {
         <div className=" h-1/3 sm:h-2/3" />
       </div>
       <div className="text-center">
-          <h2 className="text-3xl tracking-tight font-extrabold text-green-700 sm:text-4xl">About VINE</h2>
+          <h2 className="text-3xl tracking-tight font-extrabold text-green-700 sm:text-4xl">VINE is an Ecosystem of Decentralized Knowledge.</h2>
 
         </div>
       <div className="relative max-w-7xl mx-auto">

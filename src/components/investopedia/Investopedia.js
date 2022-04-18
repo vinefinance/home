@@ -5,7 +5,7 @@ import investopedia from '../../assets/images/investopedia.png'
 function Investopedia() {
   return (
     <div id="Investopedia">
-    <div className="relative bg-white pt-16 pb-32 overflow-hidden">
+    <div className="relative bg-black pt-16 pb-32 overflow-hidden">
       <div className="relative">
         <div className="lg:mx-auto lg:max-w-7xl lg:px-8 lg:grid lg:grid-cols-2 lg:grid-flow-col-dense lg:gap-24">
           <div className="px-4 max-w-xl mx-auto sm:px-6 lg:py-16 lg:max-w-none lg:mx-0 lg:px-0">
@@ -16,7 +16,7 @@ function Investopedia() {
                   Investopedia: 
                   <br/>The Wikipedia for Startups
                 </h2>
-                <p className="mt-4 text-lg text-gray-500">
+                <p className="mt-4 text-lg text-white">
                 Vine’s Investopedia is a pre-launch Work In Progress (WIP). It will be a place to due your own due diligence and learn from the best information gatherers around the world.  With every contribution you can earn cryptocurrency rewards and receive carry in companies that the community invests in.  For a sneak peak, below is the link. We are pushing updates regularly as our community continues to add improvements
                 </p>
                 <div className="mt-6">

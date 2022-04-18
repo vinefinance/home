@@ -1,7 +1,8 @@
-import React from 'react';
+import React from "react";
 import Footer from "../footer/Footer";
 import Header from "../header/Header";
 import Cta from "../cta/Cta";
+import Howitworks from "../howitworks/Howitworks";
 import About from "../about/About";
 import Community from "../community/Community";
 import Investopedia from "../investopedia/Investopedia";
@@ -11,10 +12,11 @@ function Landingpage() {
   return (
     <div>
       <div className="landingpage-bg">
-        <Header/>
+        <Header />
         <Cta />
-        <About />
+        <Howitworks />
         <Community />
+        <About />
         <Investopedia />
         <Footer />
       </div>

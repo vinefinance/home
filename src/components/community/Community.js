@@ -19,7 +19,7 @@ import crowd from '../../assets/images/crowd.jpeg';
 function Community() {
   return (
     <div id="Community">
-      <div className="relative bg-white">
+      <div className="relative bg-black">
         <div className="lg:absolute lg:inset-2">
           <div className="lg:absolute lg:inset-y-0 lg:left-0 lg:w-1/2">
             <img
@@ -35,8 +35,8 @@ function Community() {
               <h3 className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-green-700 sm:text-4xl">
                 The Community
               </h3>
-              <p className="mt-8 text-lg text-gray-500">
-              Vine is a global crypto ecosystem community of investors, founders , developers, and technologist who believe in the promise that Web3 can build global bridges.  It's hard to find relevant factual information about private companies in our own back yard, let alone around the world. Our ethos is one of information based due-diligence sharing. We, as a global collective, are eager to let the facts about crypto companies speak for themselves. Investor can harness the power of open source due-diligence to find and invest in companies that are building innovative bridges between Web2 and Web3 technology.
+              <p className="mt-8 text-lg text-white">
+              Vine is a global crypto ecosystem community of investors, founders, developers, and technologist who believe in the promise that Web3 can build global bridges.  It's hard to find relevant factual information about private companies in our own back yard, let alone around the world. Our ethos is one of information based due-diligence sharing. We, as a global collective, are eager to let the facts about crypto companies speak for themselves. Investor can harness the power of open source due-diligence to find and invest in companies that are building innovative bridges between Web2 and Web3 technology.
               </p>
 
               </div>
