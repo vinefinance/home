@@ -77,7 +77,8 @@ function Subscribe() {
                 {...register("botcheck")}
               ></input>
 
-              <div>
+              <div
+              className="inline-block bg-white py-2 px-4 border border-transparent text-base font-medium text-white hover:bg-opacity-95">
                 <label htmlFor="email_address" className="sr-only">
                   Email Address
                 </label>
@@ -85,10 +86,10 @@ function Subscribe() {
 
                   id="email_address"
                   type="email"
-                  placeholder="Enter Your @ Email"
+                  placeholder="Enter Your @Email"
                   name="email"
                   autoComplete="false"
-                  className={`text-center border  border-gray-100 w-full px-4 py-2 text-gray-900  ${
+                  className={`text-center  w-full px-4 py-2 text-gray-900  ${
                     errors.email
                       ? "border-red-600 focus:border-red-600 ring-red-100"
                       : "border-gray-300 focus:border-indigo-600 ring-indigo-100"
@@ -110,7 +111,7 @@ function Subscribe() {
 
               <button
                 type="submit"
-                className="inline-block bg-green-700 py-1 px-4 border border-transparent text-base font-medium text-white hover:bg-opacity-75"
+                className="inline-block bg-green-700 py-2 px-4 border border-transparent text-base font-medium text-white hover:bg-opacity-95"
               >
                 {isSubmitting ? (
                   <svg
