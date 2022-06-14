@@ -14,7 +14,7 @@ function Investopedia() {
                   <h2 className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-green-700 sm:text-4xl">
                     Web3pedia:
                     <br />
-                    The Wikipedia for All things Web3
+                    The Encyclopedia for ALL things Web3
                   </h2>
                   <p className="mt-4 text-lg text-white">
                     Vine’s Web3pedia is a pre-launch Work In Progress (WIP). It
