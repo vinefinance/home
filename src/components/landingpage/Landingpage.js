@@ -10,9 +10,11 @@ import "./Landingpage.css";
 
 function Landingpage() {
   return (
-    <div>
-      <div className="landingpage-bg">
+    <div className="landingpage-bg">
+      <div className="sticky top-0" style={{ zIndex: 50 }}>
         <Header />
+      </div>
+      <div className="sticky top-0" style={{ zIndex: 1 }}>
         <Cta />
         <Howitworks />
         <Community />
